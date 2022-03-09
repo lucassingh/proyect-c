@@ -1236,6 +1236,10 @@ input, select, textarea {
 				padding: 1rem;
 			}
 
+            .img-profile {
+                width: 56%;
+            }
+
 		}
 
 /* Header */
